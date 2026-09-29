@@ -1,13 +1,13 @@
 # Hi 👋, I'm KC Kiran
 
-## Generative AI Engineer | Azure AI | M365 Copilot
+## Data Scientist | Machine Learning | MySQL | RAG |
 
 Welcome to my GitHub Profile.
 
 ### 🚀 About Me
-- 💼 Working on Generative AI Solutions
+- 💼 Working on ML Engineer and  Data scientist
 - 🤖 Building AI Chatbots using RAG
-- ☁️ Azure OpenAI & AI Foundry
+- ☁️ Working on Generative AI Solutions
 - 📍 Bangalore, India
 
 ### 🛠️ Tech Stack
@@ -29,5 +29,4 @@ https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=tru
 
 ### 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@example.com
+- Email: ravikirankc@zohomail.in
