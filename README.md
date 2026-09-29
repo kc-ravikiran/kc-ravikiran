@@ -8,16 +8,22 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems u
 
 ## 🚀 About Me
 
-- 💼 Working as a Data Scientist and Machine Learning Engineer
+- 💼 5+ years of experience in Data Science, Analytics, and Machine Learning
 - 🤖 Developed Retrieval-Augmented Generation (RAG) based AI Chatbots
-- 🧠 Building intelligent AI applications using LLMs and Generative AI
-- ☁️ Exploring Azure AI, Azure OpenAI, and AI-powered solutions
-- 📊 Experienced in Data Analysis, Model Development, and Deployment
+- 🧠 Building Generative AI applications using LLMs and Vector Databases
+- ☁️ Hands-on experience with AWS SageMaker, Amazon S3, Boto3, and Cloud-based AI solutions
+- 📊 Experienced in Data Analytics, Predictive Modeling, and Dashboard Development
 - 📍 Bangalore, India
 
 ---
 
 ## 🛠️ Technical Skills
+
+### Programming & Scripting
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Programming & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
