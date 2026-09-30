@@ -27,6 +27,7 @@ Built predictive models for data-driven decision-making and business intelligenc
 
 ### ☁️ Generative AI Applications
 Actively exploring Generative AI concepts, including Large Language Models (LLMs), prompt engineering, AI applications, and intelligent document retrieval techniques.
+
 ---
 
 ## 🎯 Current Focus
