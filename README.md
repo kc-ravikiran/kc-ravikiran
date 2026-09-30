@@ -17,19 +17,6 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems u
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 RAG-Based AI Chatbots
-Developed enterprise-grade chatbots using Retrieval-Augmented Generation (RAG), vector databases, embeddings, and Large Language Models.
-
-### 📊 Machine Learning Solutions
-Built predictive models for data-driven decision-making and business intelligence.
-
-### ☁️ Generative AI Applications
-Actively exploring Generative AI concepts, including Large Language Models (LLMs), prompt engineering, AI applications, and intelligent document retrieval techniques.
-
----
-
 ## 🎯 Current Focus
 
 - Generative AI Applications
