@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems u
 
 - 💼 5+ years of experience in Data Science, Analytics, and Machine Learning
 - 🤖 Developed Retrieval-Augmented Generation (RAG) based AI Chatbots
-- 🧠 Building Generative AI applications using LLMs and Vector Databases
 - ☁️ Hands-on experience with AWS SageMaker, Amazon S3, Boto3, and Cloud-based AI solutions
 - 📊 Experienced in Data Analytics, Predictive Modeling, and Dashboard Development
+- 🧠 Exploring Generative AI
 - 📍 Bangalore, India
 
 ---
@@ -26,8 +26,7 @@ Developed enterprise-grade chatbots using Retrieval-Augmented Generation (RAG), 
 Built predictive models for data-driven decision-making and business intelligence.
 
 ### ☁️ Generative AI Applications
-Created AI-powered solutions leveraging LLMs, prompt engineering, and intelligent document retrieval.
-
+Actively exploring Generative AI concepts, including Large Language Models (LLMs), prompt engineering, AI applications, and intelligent document retrieval techniques.
 ---
 
 ## 🎯 Current Focus
@@ -36,7 +35,7 @@ Created AI-powered solutions leveraging LLMs, prompt engineering, and intelligen
 - RAG Architecture
 - LLM Integration
 - Machine Learning Model Deployment
-- Azure AI Services
+- AWS Service
 - Intelligent Chatbot Development
 
 ---
