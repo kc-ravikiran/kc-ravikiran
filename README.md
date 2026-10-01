@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about solving real-world problems using Data Science, Machine Learning, and Generative AI technologies.
 
-![Cover](https://raw.githubusercontent.com/kc-ravikiran/kc-ravikiran/refs/heads/main/cover.png)
+![Cover](cover.png)
 
 ---
 
