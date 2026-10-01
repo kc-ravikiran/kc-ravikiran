@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about solving real-world problems using Data Science, Machine Learning, and Generative AI technologies.
 
-![Cover](cover.png)
+[Cover](cover.png)
 
 ---
 
